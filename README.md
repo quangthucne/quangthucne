@@ -55,19 +55,6 @@ Tôi sử dụng các công nghệ sau để kiến tạo các dự án:
 
 ---
 
-## 🛰️ Các Dự án Quan trọng (Starship Projects)
-
-### 1. Hệ thống website quản lý kinh doanh nhà hàng và phục vụ tại chỗ
-* [cite_start]**Vị trí:** Phân tích hệ thống, backend, mobile app [cite: 25]
-* [cite_start]**Điểm nổi bật:** Phân tích CSDL, thiết kế API, tích hợp thanh toán **VNPay** và **Pay OS**[cite: 43].
-* [cite_start]**Công nghệ:** Java Springboot, MYSQL, ReactJS, React Native [cite: 44]
-
-### 2. Website kinh doanh laptop
-* [cite_start]**Vị trí:** Phân tích hệ thống, designer, developer [cite: 47]
-* [cite_start]**Điểm nổi bật:** Đảm nhận vị trí backend theo mô hình **MVC** và tích hợp thanh toán online[cite: 48].
-* [cite_start]**Công nghệ:** Java Springboot, Bootstrap, JS, Figma, MS SQL [cite: 49]
-
----
 
 ## 🏆 Thành tích & Hoạt động (Cosmic Achievements)
 
