@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,10,20,30&width=500&height=300&section=header&text=Bùi%20Quang%20Thực&fontSize=50&fontColor=ffffff&animation=fadeIn&textBg=blur" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:FF4500,70:FF8C00,100:FF4500&height=300&section=header&text=Bùi%20Quang%20Thực&fontSize=50&fontColor=ffffff&animation=fadeIn&textBg=blur" alt="Header" />
 <div align="center">
 
   <h1>👨‍🚀 Bùi Quang Thực</h1>
@@ -26,6 +26,7 @@
 </div>
 
 ### 💻 Programming Languages
+
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
@@ -34,6 +35,7 @@
 </p>
 
 ### 🚀 Frameworks & Platforms
+
 <p align="center">
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot">
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js">
@@ -44,6 +46,7 @@
 </p>
 
 ### 🗄️ Databases
+
 <p align="center">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
@@ -53,6 +56,7 @@
 </p>
 
 ### 🔧 Tools & Technologies
+
 <p align="center">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
@@ -66,9 +70,6 @@
   <h2>📊 GitHub Statistics</h2>
   
   <img src="https://github-readme-stats.vercel.app/api?username=quangthucne&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&title_color=FFA500&text_color=FFFFFF&icon_color=FFA500" alt="GitHub Stats" />
-  
-  <br/><br/>
-  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quangthucne&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=10&title_color=FFA500&text_color=FFFFFF" alt="Top Languages" />
 </div>
 
