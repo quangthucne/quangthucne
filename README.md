@@ -73,7 +73,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quangthucne&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=10&title_color=FFA500&text_color=FFFFFF" alt="Top Languages" />
 </div>
 
-<div align="center">
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=quangthucne&theme=tokyonight&hide_border=true&border_radius=10&fire=FFA500&currStreakLabel=FFA500&sideLabels=FFA500&dates=FFFFFF" alt="GitHub Streak" />
-</div>
