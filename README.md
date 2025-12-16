@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://emojis.slackmojis.com/emojis/images/1531845187/4249/astronaut.gif?1531845187" alt="Astronaut GIF" width="100"/>
-  <h1>🌌 Bùi Quang Thực - Nhiệm vụ: Phát triển Phần mềm 🚀</h1>
+  <h1>🌌 Bùi Quang Thực - Java Developer 🚀</h1>
   <p>Backend/Mobile Developer - Sinh viên FPT Polytechnic Cơ sở Cần Thơ</p>
   
   <p>
