@@ -1,71 +1,86 @@
 <div align="center">
-  <img src="https://i.imgur.com/your-space-avatar.png" alt="Space Avatar" width="150" height="150"/>
-  <h1>🚀 Bùi Quang Thực - Nhiệm vụ: Phát triển phần mềm</h1>
+  <img src="https://emojis.slackmojis.com/emojis/images/1531845187/4249/astronaut.gif?1531845187" alt="Astronaut GIF" width="100"/>
+  <h1>🌌 Bùi Quang Thực - Nhiệm vụ: Phát triển Phần mềm 🚀</h1>
+  <p>Backend/Mobile Developer - Sinh viên FPT Polytechnic Cơ sở Cần Thơ</p>
+  
+  <p>
+    <a href="mailto:bthuc000@gmail.com"><img src="https://img.shields.io/badge/Email-bthuc000%40gmail.com-D946EF?style=for-the-badge&logo=Gmail&logoColor=white"></a>
+    <a href="https://github.com/quangthucne"><img src="https://img.shields.io/badge/GitHub-quangthucne-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  </p>
 </div>
 
 ---
 
-## 🛰️ Giới thiệu (Mission Brief)
+## 🌟 Tóm tắt Chiến lược (Mission Brief)
 
-Xin chào! [cite_start]Tôi hiện là **sinh viên năm cuối** tại Cao đẳng FPT Polytechnic Cơ sở Cần Thơ[cite: 4].
-[cite_start]Tôi có kinh nghiệm ở vị trí **Backend** với **Java Springboot** và **Restful API**[cite: 4].
-
-[cite_start]Mục tiêu của tôi là phát triển kỹ năng chuyên môn, tích lũy kinh nghiệm làm việc trong môi trường chuyên nghiệp, đồng thời đóng góp giá trị cho doanh nghiệp[cite: 5].
-
-* [cite_start]**Vị trí mong muốn:** Backend/Mobile [cite: 2]
-* [cite_start]**Email liên hệ:** bthuc000@gmail.com [cite: 23]
-* [cite_start]**GitHub:** [quangthucne](https://github.com/quangthucne) 
+[cite_start]Tôi hiện là sinh viên năm cuối [cite: 4] [cite_start]với kinh nghiệm ở vị trí **Backend** [cite: 2] [cite_start]sử dụng **Java Springboot** và **Restful API**[cite: 4]. [cite_start]Tôi mong muốn phát triển kỹ năng chuyên môn [cite: 5][cite_start], tích lũy kinh nghiệm và đóng góp giá trị cho doanh nghiệp[cite: 5].
 
 ## 🛠️ Công nghệ & Kỹ năng (The Command Center)
 
-Dưới đây là các công nghệ tôi đang sử dụng để xây dựng các "thiên hà" phần mềm:
+Tôi sử dụng các công nghệ sau để kiến tạo các dự án:
 
-### Ngôn ngữ lập trình (Core Engines)
-* [cite_start]**Java** [cite: 29]
-* [cite_start]**Javascript** [cite: 29]
-* [cite_start]**Python** [cite: 29]
-* [cite_start]**Swift** [cite: 29]
+### Ngôn ngữ Lập trình (Languages)
+<p>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white">
+</p>
 
-### Frameworks (Launch Platforms)
-| Backend | Frontend | Mobile |
-| :--- | :--- | :--- |
-| [cite_start]**SpringBoot** [cite: 31] | [cite_start]**Vue JS** [cite: 31] | [cite_start]**React Native** [cite: 31] |
-| [cite_start]**Nest JS** [cite: 31] | [cite_start]**React JS** [cite: 31] | [cite_start]**Swift UI** [cite: 31] |
-| | [cite_start]**Next JS** [cite: 31] | |
+### Frameworks (Backend, Frontend, Mobile)
+<p>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/SwiftUI-F05138?style=for-the-badge&logo=swift&logoColor=white">
+</p>
 
-### Cơ sở dữ liệu (Data Satellites)
-* [cite_start]**MS SQL** [cite: 33]
-* [cite_start]**MySQL** [cite: 33]
-* [cite_start]**PostgreSQL** [cite: 33]
-* [cite_start]**Mongo DB** [cite: 33]
-* [cite_start]**Redis** [cite: 33]
-* [cite_start]**Maria DB** [cite: 33]
+### Cơ sở Dữ liệu (Databases)
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
+</p>
 
-### Công cụ & Kỹ năng mềm (Navigation & Crew Skills)
-* [cite_start]**Công cụ:** Github [cite: 37][cite_start], Postman [cite: 37][cite_start], Docker [cite: 37][cite_start], Figma [cite: 37][cite_start], GitLab [cite: 37]
-* [cite_start]**Kỹ năng mềm:** Làm việc nhóm [cite: 39][cite_start], Thuyết trình [cite: 40][cite_start], Đọc hiểu tài liệu tiếng anh[cite: 41].
-
-## 🌠 Dự án Tiêu biểu (Celestial Projects)
-
-### 1. Hệ thống website quản lý kinh doanh nhà hàng và phục vụ tại chỗ
-* [cite_start]**Vị trí:** Phân tích hệ thống, Backend, Mobile app [cite: 25]
-* [cite_start]**Vai trò:** Tham gia phân tích cơ sở dữ liệu, thiết kế giao diện mobile, thiết kế API hệ thống, tích hợp thanh toán VNPay, Pay OS[cite: 42, 43].
-* [cite_start]**Công nghệ:** Java Springboot, MYSQL, ReactJS, React Native [cite: 44]
-
-### 2. Website kinh doanh laptop
-* [cite_start]**Vị trí:** Phân tích hệ thống, Designer, Developer [cite: 47]
-* [cite_start]**Vai trò:** Tham gia phân tích cơ sở dữ liệu, thiết kế giao diện, đảm nhận vị trí backend theo mô hình MVC và tích hợp thanh toán online[cite: 48].
-* [cite_start]**Công nghệ:** Java Springboot, Bootstrap, JS, Figma, MS SQL [cite: 49]
-
-## 🌟 Thành tựu (Star Achievements)
-
-* [cite_start]Danh hiệu **sinh viên xuất sắc** học kì Fall 2023[cite: 15].
-* [cite_start]**TOP 12** VÒNG WARRIOS CHALLENGE 15/3/2025[cite: 53].
+### Công cụ (Tools)
+<p>
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+</p>
 
 ---
 
-## 📊 Thống kê GitHub (Cosmic Data)
+## 🛰️ Các Dự án Quan trọng (Starship Projects)
 
-[![Thống kê GitHub của quangthucne](https://github-readme-stats.vercel.app/api?username=quangthucne&show_icons=true&theme=dark&rank_icon=title)](https://github.com/quangthucne)
+### 1. Hệ thống website quản lý kinh doanh nhà hàng và phục vụ tại chỗ
+* [cite_start]**Vị trí:** Phân tích hệ thống, backend, mobile app [cite: 25]
+* [cite_start]**Điểm nổi bật:** Phân tích CSDL, thiết kế API, tích hợp thanh toán **VNPay** và **Pay OS**[cite: 43].
+* [cite_start]**Công nghệ:** Java Springboot, MYSQL, ReactJS, React Native [cite: 44]
 
-[![Ngôn ngữ được sử dụng nhiều nhất](https://github-readme-stats.vercel.app/api/top-langs/?username=quangthucne&layout=compact&langs_count=8&theme=dark)](https://github.com/quangthucne)
+### 2. Website kinh doanh laptop
+* [cite_start]**Vị trí:** Phân tích hệ thống, designer, developer [cite: 47]
+* [cite_start]**Điểm nổi bật:** Đảm nhận vị trí backend theo mô hình **MVC** và tích hợp thanh toán online[cite: 48].
+* [cite_start]**Công nghệ:** Java Springboot, Bootstrap, JS, Figma, MS SQL [cite: 49]
+
+---
+
+## 🏆 Thành tích & Hoạt động (Cosmic Achievements)
+
+* [cite_start]**GPA:** 3.65/4 [cite: 15]
+* [cite_start]Danh hiệu **sinh viên xuất sắc** học kì Fall 2023[cite: 15].
+* [cite_start]**TOP 12** VÒNG WARRIOS CHALLENGE (15/3/2025)[cite: 53].
+* [cite_start]Tham gia tổ chức cuộc thi CODE ARENA 2025[cite: 52, 51].
+
+---
+
+## 📈 Thống kê GitHub (Cosmic Data Analysis)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=quangthucne&show_icons=true&theme=gotham&rank_icon=title&hide_border=true" alt="Thống kê GitHub">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quangthucne&layout=compact&langs_count=8&theme=gotham&hide_border=true" alt="Ngôn ngữ được sử dụng nhiều nhất">
+</p>
