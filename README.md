@@ -1,3 +1,4 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,6,12,18,24,30&height=300&section=header&text=Bùi%20Quang%20Thực&fontSize=50&fontColor=ffffff&animation=fadeIn" alt="Header" />
 <div align="center">
 
   <h1>👨‍🚀 Bùi Quang Thực</h1>
